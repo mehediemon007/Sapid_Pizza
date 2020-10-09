@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sapid_Pizza/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Sapid_Pizza/static/js/main.8d7fc780.chunk.js",
+    "main.js.map": "/Sapid_Pizza/static/js/main.8d7fc780.chunk.js.map",
+    "runtime-main.js": "/Sapid_Pizza/static/js/runtime-main.af1237db.js",
+    "runtime-main.js.map": "/Sapid_Pizza/static/js/runtime-main.af1237db.js.map",
+    "static/js/2.08a17829.chunk.js": "/Sapid_Pizza/static/js/2.08a17829.chunk.js",
+    "static/js/2.08a17829.chunk.js.map": "/Sapid_Pizza/static/js/2.08a17829.chunk.js.map",
+    "index.html": "/Sapid_Pizza/index.html",
+    "precache-manifest.e04949a8f6aada318f8c4989ed87b2bf.js": "/Sapid_Pizza/precache-manifest.e04949a8f6aada318f8c4989ed87b2bf.js",
+    "service-worker.js": "/Sapid_Pizza/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Sapid_Pizza/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.08a17829.chunk.js.LICENSE.txt": "/Sapid_Pizza/static/js/2.08a17829.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Sapid_Pizza/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af1237db.js",
+    "static/js/2.08a17829.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8d7fc780.chunk.js"
+  ]
+}
